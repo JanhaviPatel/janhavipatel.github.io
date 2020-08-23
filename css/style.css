@@ -177,7 +177,7 @@ h2.heading-title{
 	background: url("../images/cover.jpg") ;
 	background-size: 100% 100%;
 }
-.banner-content{
+.banner-content{	
 	padding-top: 100px;
 	padding-right: 0px;
 	padding-bottom: 555px;
@@ -185,6 +185,7 @@ h2.heading-title{
 }
 
 h2.title{
+	padding-top: 100px
 	font-size: 57px;
 	line-height: 72px;
 	color: #fff;
