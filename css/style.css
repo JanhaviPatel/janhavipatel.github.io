@@ -178,7 +178,10 @@ h2.heading-title{
 	background-size: cover;
 }
 .banner-content{
-	padding: 400px 0px 0px 400px;
+	padding-top: 250px;
+	padding-right: 0px;
+	padding-bottom: 300px;
+	padding-left: 0px;
 }
 
 h2.title{
